@@ -1,0 +1,16 @@
+{
+  "name": "catharsis-peer-bot",
+  "version": "1.0.0",
+  "description": "A journal keeping bot that pushes you to share your thoughts, opnions, goals & the daily humdrum of your life by asking some intersting & emaningful questions everyday. Customised for Pranay Chettri Karki. Build as a gift on his 23rd birthday.\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C\u001b[C day.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "telegram-bot",
+    "journal",
+    "pranay"
+  ],
+  "author": "C",
+  "license": "ISC"
+}
