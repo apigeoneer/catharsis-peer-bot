@@ -12,5 +12,9 @@
     "pranay"
   ],
   "author": "C",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.51.0",
+    "telegram-bot-api": "^2.0.1"
+  }
 }
